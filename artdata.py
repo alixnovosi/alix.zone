@@ -84,4 +84,18 @@ ART_DATA = [
         "category": "fursona",
         "category-label": "fursona",
     },
+    {
+        "type": "fullbody-art",
+        "link": "/gallery/commart/rivaldi_minnie_brooks_(hunter)_commission.png",
+        "alt": "Rivaldi Minnie Rose Brooks fullbody",
+        "title": "Rivaldi Minnie Rose Brooks fullbody",
+        "subject": "Minnie Rose Brooks (♀️ awoken  hunter)",
+        "artist": {
+            "link": "https://twitter.com/rivaldi22",
+            "name": "rivaldi22 (Randy)",
+        },
+        "date": "2021-12-08",
+        "category": "destiny2",
+        "category-label": "destiny 2",
+    },
 ]

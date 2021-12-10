@@ -79,9 +79,9 @@ jscopy:
 	cp $(MARKOVBOXDIR)/dist/* $(INPUTDIR)/dist/markovbox/
 
 html: sasscompile jscopy
-	cp -R $(INPUTDIR)/gallery/commart $(OUTPUTDIR)/gallery/
 	$(BASEDIR)/hash_author_images $(INPUTDIR)/gallery/author_images $(AUTHOR_IMAGES)
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	cp -R $(INPUTDIR)/gallery/commart $(OUTPUTDIR)/gallery/
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
