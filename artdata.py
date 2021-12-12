@@ -98,4 +98,18 @@ ART_DATA = [
         "category": "destiny2",
         "category-label": "destiny 2",
     },
+    {
+        "type": "pfp-art",
+        "link": "/gallery/commart/aspen_eyes_halloween_pfp.png",
+        "alt": "Aspen Eyes halloween fursona profile",
+        "title": "Aspen Eyes halloween fursona profile",
+        "subject": "Alix (fursona)",
+        "artist": {
+            "link": "https://twitter.com/aspen_eyes",
+            "name": "Aspen Eyes",
+        },
+        "date": "2021-12-10",
+        "category": "fursona",
+        "category-label": "fursona",
+    },
 ]
