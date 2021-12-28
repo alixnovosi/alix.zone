@@ -491,6 +491,36 @@ main.goty, main.retro-goty {
   width: 100%;
 }
 
+.lol-2021 .tile, .lol-2020 .tile {
+  border: 2px solid #000011;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  width: 400px;
+}
+
+article.lol-2021 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1600px;
+}
+
+article.lol-2021 a {
+  padding: 0.25em 0;
+}
+
+article.lol-2021 img {
+  height: 200px;
+}
+
+article.lol-2021 .tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0.5em;
+}
+
 .lol-2020 {
   display: grid;
   gap: 1.5em 3em;
@@ -500,29 +530,25 @@ main.goty, main.retro-goty {
   width: 100%;
 }
 
-.lol-2020 .lol-2020-tile {
-  border: 2px solid #000011;
-  border-radius: 5px;
+.lol-2020 .tile {
   height: 400px;
-  padding: 10px;
-  text-align: center;
 }
 
-.lol-2020 .lol-2020-tile a {
+.lol-2020 .tile a {
   display: inline-block;
   height: 300px;
   width: 100%;
 }
 
-.lol-2020 .lol-2020-tile:nth-child(2) {
+.lol-2020 .tile:nth-child(2) {
   grid-column-start: 3;
 }
 
-.lol-2020 .lol-2020-tile:nth-child(3) {
+.lol-2020 .tile:nth-child(3) {
   grid-column-start: 2;
 }
 
-.lol-2020 .lol-2020-tile:nth-child(4) {
+.lol-2020 .tile:nth-child(4) {
   grid-column-start: 4;
 }
 

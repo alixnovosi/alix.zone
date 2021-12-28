@@ -2,7 +2,7 @@
 // author:  andrew michaud                                                    //
 // file:    goty.scss                                                         //
 // purpose: styles for goty list pages                                        //
-// updated: 2020-12-25                                                        //
+// updated: 2021-12-28                                                        //
 // license: isc                                                               //
 //----------------------------------------------------------------------------//
 @import "vars";
@@ -10,7 +10,7 @@
 .rest, .top-three {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-};
+}
 
 .top-three {
     padding: 0;
@@ -182,6 +182,36 @@ main.goty, main.retro-goty {
     width: 100%;
 }
 
+.lol-2021 .tile, .lol-2020 .tile {
+    border: 2px solid $nav_blue_darker;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    width: 400px;
+}
+
+article.lol-2021 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1600px;
+
+    a {
+        padding: 0.25em 0;
+    }
+
+    img {
+        height: 200px;
+    }
+
+    .tile {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin: 0.5em;
+    }
+}
+
 .lol-2020 {
     display: grid;
     gap: 1.5em 3em;
@@ -190,12 +220,8 @@ main.goty, main.retro-goty {
     padding: 1em;
     width: 100%;
 
-    .lol-2020-tile {
-        border: 2px solid $nav_blue_darker;
-        border-radius: 5px;
+    .tile {
         height: 400px;
-        padding: 10px;
-        text-align: center;
 
         a {
             display: inline-block;
@@ -216,15 +242,9 @@ main.goty, main.retro-goty {
         }
     }
 
-    h4 {
-        &:hover {
-        }
-    }
-
     img {
         height: 300px;
-  }
-
+    }
 }
 
 .site-nav-goty ul {
