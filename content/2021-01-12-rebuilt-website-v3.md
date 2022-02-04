@@ -2,6 +2,7 @@ Title: rebuilt website x3
 Date: 2021-01-12 12:00:00
 Category: Dev
 Tags: website
+Author: Alix Novosi
 
 This is probably going to be another short post,
 but I figure I get one of these per site rebuild.
@@ -28,7 +29,7 @@ so that's neat.
 
 enjoy the site bye
 
-- drew/alix
+- alix
 
 
 

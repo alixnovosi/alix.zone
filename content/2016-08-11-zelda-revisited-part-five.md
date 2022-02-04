@@ -3,7 +3,7 @@ Date: 2016-12-27 07:38:00
 Category: Zelda Revisited
 Modified: 2017-11-10 04:02:49
 Tags: games, zelda-revisited
-Author: drew
+Author: Alix Novosi
 
 Previously:
 [Zelda 1, The Adventure of Link, Link to the Past]({filename}/2016-10-10-zelda-revisited-part-one.md)

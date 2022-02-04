@@ -1,3 +1,3 @@
-Title: commissioned art!
+Title: oc art!
 Identifier: ocgallery
 template: gallery

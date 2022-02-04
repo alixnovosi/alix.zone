@@ -2,7 +2,7 @@ Title: Blue Apron Pt. 2
 Date: 2016-03-28 05:52:00
 Category: Cooking
 Modified: 2016-05-27 06:04:04
-Author: drew
+Author: Alix Novosi
 Tags: blue-apron
 
 ### Hoison & Shittake Burgers With Sweet Potato Spears

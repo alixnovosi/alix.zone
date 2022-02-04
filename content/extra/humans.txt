@@ -2,12 +2,12 @@
 # The humans responsible & technology colophon
 
 /* TEAM */
-    Developer/Owner: drew
+    Developer/Owner: alix novosi
     Contact: dev [at] drew.life
     From: California, USA
 
 /* SITE */
-    Last update: 2019-04-27
+    Last update: 2022-02-04
     Language: English
     Standards: HTML5, CSS3
     Software: neovim, Pelican, nginx, FreeBSD

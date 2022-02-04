@@ -2,7 +2,7 @@ Title: Blue Apron Pt. 4
 Date: 2016-04-10 06:01:00
 Category: Cooking
 Modified: 2016-05-27 06:03:38
-Author: drew
+Author: Alix Novosi
 Tags: blue-apron
 
 ### Adobo-Style Chicken Without Bok Choy (and rice)

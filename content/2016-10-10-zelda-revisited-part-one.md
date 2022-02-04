@@ -3,7 +3,7 @@ Date: 2016-10-19 20:54:17
 Category: Zelda Revisited
 Modified: 2016-10-19 20:54:17
 Tags: games, zelda-revisited
-Author: drew
+Author: Alix Novosi
 
 I've been a fan of Zelda games for a long time.
 I played other games before I picked up anything from this series,

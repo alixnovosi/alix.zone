@@ -81,7 +81,7 @@ jscopy:
 html: sasscompile jscopy
 	$(BASEDIR)/hash_author_images $(INPUTDIR)/gallery/author_images $(AUTHOR_IMAGES)
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	cp -R $(INPUTDIR)/gallery/commart $(OUTPUTDIR)/gallery/
+	cp -R $(INPUTDIR)/gallery/pieces $(OUTPUTDIR)/gallery/
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)

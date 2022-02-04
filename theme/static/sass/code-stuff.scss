@@ -41,7 +41,7 @@ $language_colors: (
     border: 1px solid $nav_blue_darker;
     border-radius: 5px;
     display: grid;
-    grid-template-columns: 150px auto 175px;
+    grid-template-columns: 150px auto 200px;
     grid-template-rows: 80px;
     margin: 0 auto 0.5em auto;
     max-width: 1000px;
@@ -76,6 +76,7 @@ $language_colors: (
 
 .language {
     color: $background;
+    padding: 0 0.5em;
 }
 
 // special-case Various and Bash because the background is so light.

@@ -2,7 +2,7 @@ Title: Blue Apron Pt. 3
 Date: 2016-04-04 05:57:00
 Category: Cooking
 Modified: 2016-05-27 06:03:51
-Author: drew
+Author: Alix Novosi
 Tags: blue-apron
 
 ### Triple Pork Mazemen with Roasted Garlic & Pea Tips

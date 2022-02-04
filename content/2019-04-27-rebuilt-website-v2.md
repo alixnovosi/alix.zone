@@ -2,6 +2,7 @@ Title: Rebuilt website (again)!
 Date: 2019-04-27 08:00:00
 Category: Dev
 Tags: website
+Author: Alix Novosi
 
 I rebuilt it again.
 

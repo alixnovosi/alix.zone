@@ -2,7 +2,7 @@
 // author:  andrew michaud                                                    //
 // file:    ocgallery.scss                                                    //
 // purpose: specific styles for oc gallery section                            //
-// updated: 2021-01-27                                                        //
+// updated: 2022-01-26                                                        //
 // license: isc                                                               //
 //----------------------------------------------------------------------------//
 @import "vars";
@@ -17,7 +17,17 @@ $art_category_colors: (
     demo: #FFFFFF,
     fursona: #C7C5C2,
     destiny2: #1F79A1,
+    mine: #A0D1A0,
 );
+
+.art-category-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.art-tile-category {
+    flex-grow: 1;
+}
 
 @each $item, $bg_color in $art_category_colors {
     .art-tile-category.#{$item} {
@@ -36,6 +46,10 @@ $art_category_colors: (
     }
 }
 
+.pfp-art.art-tile {
+    margin: auto;
+}
+
 .art-tile {
     display: grid;
     font-family: 'Jura', sans-serif;
@@ -49,7 +63,6 @@ $art_category_colors: (
 
 .art-tile-art, .art-info-container {
     border: 2px solid $nav_blue_darker;
-    border-right: none;
     grid-column: 1 / 2;
 }
 
@@ -70,11 +83,10 @@ $art_category_colors: (
     border-top: 2px solid $nav_blue_darker;
     display: grid;
     font-size: 16px;
-    line-height: 2;
-    padding: 0 10px;
+    padding: 10px;
     text-align: left;
 
-    &:nth-child(2n+1) {
+    &:nth-child(odd) {
         border-right: 2px solid $nav_blue_darker;
     }
 
@@ -90,10 +102,11 @@ $art_category_colors: (
 .art-tile-category {
     border: 2px solid $nav_blue_darker;
     border-top-right-radius: 10px;
-    font-size: 21px;
+    font-size: 19px;
     font-weight: bold;
     grid-column: 2 / span 1;
     grid-row: 1 / span 3;
+    line-height: 1.5;
     text-align: center;
     writing-mode: sideways-lr;
 }

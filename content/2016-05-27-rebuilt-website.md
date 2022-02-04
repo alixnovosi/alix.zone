@@ -3,6 +3,7 @@ Date: 2016-03-09 06:29:00
 Modified: 2017-11-09 21:52:29
 Category: Dev
 Tags: website
+Author: Alix Novosi
 
 I decided to rewrite my website.
 I was inspired by being forced into frontend development at work,

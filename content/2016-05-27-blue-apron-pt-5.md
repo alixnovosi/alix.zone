@@ -2,7 +2,7 @@ Title: Blue Apron Pt. 5
 Date: 2016-04-21 06:06:00
 Category: Cooking
 Modified: 2016-05-27 06:12:50
-Author: drew
+Author: Alix Novosi
 Tags: blue-apron
 
 ### Nonsense Part 1

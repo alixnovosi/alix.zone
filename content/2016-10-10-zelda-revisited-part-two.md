@@ -3,7 +3,7 @@ Date: 2016-10-25 20:20:27
 Category: Zelda Revisited
 Modified: 2016-06-11 21:10
 Tags: games, zelda-revisited
-Author: drew
+Author: Alix Novosi
 
 My
 [last Zelda blog post]({filename}/2016-10-10-zelda-revisited-part-one.md)

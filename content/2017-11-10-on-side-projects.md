@@ -1,7 +1,7 @@
 Title: Side Projects Are Fun
 Category: Dev
 Tags: side-projects, puckfetcher, botskeleton, bots
-Author: drew
+Author: Alix Novosi
 Date: 2017-11-10 04:25:08
 Modified: 2021-01-12 11:32:00
 
@@ -203,7 +203,7 @@ I've wanted to make some Twitter bots for a while.
 What finally inspired me to do it was [NaBoMaMo](http://nabomamo.botally.net/),
 or National Bot Making Month.
 This was an NaNoGenMo/NaNoWriMo to make a bunch of Twitter bots during the month of November.
-I made [eight](https://drew.life/dev).
+I made [eight](https://alix.zone/dev).
 The process of crafting those bots was a lot of fun,
 and it led to different challenges than working on puckfetcher.
 

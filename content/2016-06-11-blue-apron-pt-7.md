@@ -3,7 +3,7 @@ Date: 2016-06-11 21:08:27
 Category: Cooking
 Modified: 2016-06-11 21:10:09
 Tags: blue-apron
-Author: drew
+Author: Alix Novosi
 
 I started ordering Blue Apron again.
 

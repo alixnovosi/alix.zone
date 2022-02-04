@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*- #
 
 import os
 import sys
@@ -10,12 +9,12 @@ from projectdata import *
 from links import *
 from sitedata import *
 
-AUTHOR = "drew"
+AUTHOR = "alix"
 DEFAULT_LANG = "en"
 
 PATH = "content/"
 
-SITENAME = "drewblog"
+SITENAME = "alixlog"
 SLUGIFY_SOURCE = "title"
 
 THEME = "theme"
@@ -51,7 +50,7 @@ STATIC_PATHS = [
     "gallery",
     "media",
     "extra",  # favicon and robots.txt here.
-    "dist",  # javascript for nonograms
+    "dist",  # javascript
 ]
 
 EXTRA_PATH_METADATA = {

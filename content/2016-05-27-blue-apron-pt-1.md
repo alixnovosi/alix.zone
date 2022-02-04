@@ -3,7 +3,7 @@ Date: 2016-03-28 05:36:00
 Modified: 2016-05-27 06:04:16
 Category: Cooking
 Tags: blue-apron
-Author: drew
+Author: Alix Novosi
 
 I'm going to try to turn this into a Blue Apron cooking blog,
 for lack of better ideas.

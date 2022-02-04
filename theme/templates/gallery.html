@@ -11,7 +11,7 @@
 {% block content %}
   <div class="ocgallery-container">
 
-    <h2>Commissioned Art</h2>
+    <h2>Character Art Pieces</h2>
 
     <section class="gallery-section">
       {% for item in ART_DATA %}
@@ -38,8 +38,12 @@
             <section class="art-info-tile">{{ item['date'] }}</section>
           </section>
 
-          <section class="art-tile-category {{ item['category'] }}">
-            {{ item['category-label'] }}
+          <section class="art-category-box">
+           {% for category in item['categories'] %}
+            <section class="art-tile-category {{ category['category'] }}">
+             {{ category['category-label'] }}
+            </section>
+           {% endfor %}
           </section>
         </section>
       {% endfor %}
