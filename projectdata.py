@@ -39,8 +39,8 @@ PROJECT_GENS = {
         "has_js": True,
     },
 
-    "drew.life": {
-        "git_name": "drew.life",
+    "alix.zone": {
+        "git_name": "alix.zone",
         "long_desc": "Source code for this very website.",
         "language": "HTML5, SCSS/CSS3, Markdown",
         "types": ["other"],

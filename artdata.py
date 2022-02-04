@@ -7,7 +7,7 @@ ART_DATA = [
         "title": "tree",
         "subject": "a tree",
         "artist": {
-            "link": "https://drew.life",
+            "link": "https://alix.zone",
             "name": "Alix Novosi + Python collab",
         },
         "date": "forget",
@@ -101,7 +101,7 @@ ART_DATA = [
         "title": "Alix Novosi Reference Sheet",
         "subject": "Alix (fursona)",
         "artist": {
-            "link": "https://drew.life/ocgallery.html",
+            "link": "https://alix.zone/ocgallery.html",
             "name": "Alix Novosi",
         },
         "date": "2021-06-17",
@@ -159,7 +159,7 @@ ART_DATA = [
         "title": "Anita-5, exo deer (and Sylv)",
         "subject": "Anita-5 (♀️ exo deerlock)  (and Sylv)",
         "artist": {
-            "link": "https://drew.life/ocgallery.html",
+            "link": "https://alix.zone/ocgallery.html",
             "name": "Alix Novosi",
         },
         "date": "2022-01-28",

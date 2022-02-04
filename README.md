@@ -1,4 +1,4 @@
-This is the source code for https://drew.life.
+This is the source code for https://alix.zone.
 Feel free to use the code,
 just credit me if you use substantial portions.
 Same goes for blog posts/prose in this repo.

@@ -1,8 +1,8 @@
 ##----------------------------------------------------------------------------##
-## author:  Andrew Michaud                                                    ##
+## author:  Alix Novosi                                                       ##
 ## file:    Makefile                                                          ##
 ## purpose: pelican generated makefile,                                       ##
-##          plus compiling sass -> css for drew.life,                         ##
+##          plus compiling sass -> css for alix.zone,                         ##
 ##          and moving other js around                                        ##
 ## updated: 2021-01-09                                                        ##
 ## license: ISC                                                               ##
