@@ -11,6 +11,7 @@ $category_width: 30px;
 $widths: (
     pfp-art: 250px,
     fullbody-art: 350px,
+    ref: 550px,
 );
 
 $art_category_colors: (
@@ -23,6 +24,7 @@ $art_category_colors: (
 .art-category-box {
     display: flex;
     flex-direction: column;
+    height: 100%;
 }
 
 .art-tile-category {
@@ -42,7 +44,13 @@ $art_category_colors: (
     }
 
     .#{$type}.art-tile {
+        align-items: center;
         grid-template-columns: $width $category_width;
+        justify-content: center;
+
+        @if $type == ref {
+            grid-column: auto / span 2;
+        }
     }
 }
 

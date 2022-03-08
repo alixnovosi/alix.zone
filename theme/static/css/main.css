@@ -687,6 +687,7 @@ article.lol-2021 .tile {
 .art-category-box {
   display: flex;
   flex-direction: column;
+  height: 100%;
 }
 
 .art-tile-category {
@@ -715,7 +716,9 @@ article.lol-2021 .tile {
 }
 
 .pfp-art.art-tile {
+  align-items: center;
   grid-template-columns: 250px 30px;
+  justify-content: center;
 }
 
 .fullbody-art.art-tile-art, .fullbody-art img, .fullbody-art a, .fullbody-art .art-info-container {
@@ -724,7 +727,21 @@ article.lol-2021 .tile {
 }
 
 .fullbody-art.art-tile {
+  align-items: center;
   grid-template-columns: 350px 30px;
+  justify-content: center;
+}
+
+.ref.art-tile-art, .ref img, .ref a, .ref .art-info-container {
+  width: 550px;
+  height: auto;
+}
+
+.ref.art-tile {
+  align-items: center;
+  grid-template-columns: 550px 30px;
+  justify-content: center;
+  grid-column: auto / span 2;
 }
 
 .pfp-art.art-tile {

@@ -95,7 +95,7 @@ ART_DATA = [
         ],
     },
     {
-        "type": "fullbody-art",
+        "type": "ref",
         "link": "/gallery/pieces/self-made self-ref 1.0 June 2021.png",
         "alt": "Alix Novosi Reference Sheet",
         "title": "Alix Novosi Reference Sheet",
@@ -175,6 +175,28 @@ ART_DATA = [
             {
                 "category": "mine",
                 "category-label": "mine",
+            },
+        ],
+    },
+    {
+        "type": "ref",
+        "link": "/gallery/pieces/girlpillz_anita-5_ref_final.png",
+        "alt": "Anita-5, exo deer (and Sylv)",
+        "title": "Anita-5, exo deer (and Sylv)",
+        "subject": "Anita-5 (♀️ exo deerlock)  (and Sylv)",
+        "artist": {
+            "link": "https://twitter.com/girlpillz",
+            "name": "girlpillz",
+        },
+        "date": "2022-03-07",
+        "categories": [
+            {
+                "category": "destiny2",
+                "category-label": "destiny 2",
+            },
+            {
+                "category": "fursona",
+                "category-label": "fursona",
             },
         ],
     },
