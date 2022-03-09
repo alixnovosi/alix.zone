@@ -744,10 +744,6 @@ article.lol-2021 .tile {
   grid-column: auto / span 2;
 }
 
-.pfp-art.art-tile {
-  margin: auto;
-}
-
 .art-tile {
   display: grid;
   font-family: 'Jura', sans-serif;
@@ -775,6 +771,10 @@ article.lol-2021 .tile {
   display: grid;
   grid-template-columns: 2fr 3fr;
   grid-row: 2 / span 1;
+}
+
+.art-info-tile.linked:hover {
+  background-color: #bbbbdd;
 }
 
 .art-info-tile {
@@ -893,7 +893,7 @@ a {
 
 html {
   background-color: #eeeeff;
-  font: sans-serif;
+  font-family: sans-serif;
   font-size: 16px;
   min-width: 810px;
 }

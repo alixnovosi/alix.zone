@@ -2,7 +2,7 @@
 // author:  Alix Novosi                                                       //
 // file:    main.scss                                                         //
 // purpose: scss file for alix.zone - imports sub-pages                       //
-// updated: 2022-01-26                                                        //
+// updated: 2022-03-09                                                        //
 // license: isc                                                               //
 //----------------------------------------------------------------------------//
 
@@ -22,7 +22,7 @@ a {
 
 html {
     background-color: $background;
-    font: sans-serif;
+    font-family: sans-serif;
     font-size: 16px;
     min-width: 810px;
 }

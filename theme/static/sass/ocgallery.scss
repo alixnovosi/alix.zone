@@ -2,7 +2,7 @@
 // author:  andrew michaud                                                    //
 // file:    ocgallery.scss                                                    //
 // purpose: specific styles for oc gallery section                            //
-// updated: 2022-01-26                                                        //
+// updated: 2022-03-09                                                        //
 // license: isc                                                               //
 //----------------------------------------------------------------------------//
 @import "vars";
@@ -52,10 +52,7 @@ $art_category_colors: (
             grid-column: auto / span 2;
         }
     }
-}
 
-.pfp-art.art-tile {
-    margin: auto;
 }
 
 .art-tile {
@@ -85,6 +82,10 @@ $art_category_colors: (
     display: grid;
     grid-template-columns: 2fr 3fr;
     grid-row: 2 / span 1;
+}
+
+.art-info-tile.linked:hover {
+    background-color: $background_dark;
 }
 
 .art-info-tile {
