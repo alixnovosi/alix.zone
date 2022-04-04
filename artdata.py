@@ -200,4 +200,26 @@ ART_DATA = [
             },
         ],
     },
+    {
+        "type": "ref",
+        "link": "/gallery/pieces/4.0 Ref Sheet.png",
+        "alt": "Alix Novosi ref sheet (4.0 model)",
+        "title": "Alix Novosi ref sheet (4.0 model)",
+        "subject": "Alix Novosi",
+        "artist": {
+            "link": "https://alix.zone/ocgallery.html",
+            "name": "Alix Novosi",
+        },
+        "date": "2022-04-01",
+        "categories": [
+            {
+                "category": "fursona",
+                "category-label": "fursona",
+            },
+            {
+                "category": "mine",
+                "category-label": "mine",
+            },
+        ],
+    },
 ]
