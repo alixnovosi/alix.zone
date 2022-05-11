@@ -223,7 +223,7 @@ ART_DATA = [
         ],
     },
     {
-        "type": "fullbody-art",
+        "type": "ref",
         "link": "/gallery/pieces/bryce-titan-gem.png",
         "alt": "Bryce, ♂️ human titan",
         "title": "Bryce, ♂️ human titan",
