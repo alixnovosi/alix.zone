@@ -222,4 +222,22 @@ ART_DATA = [
             },
         ],
     },
+    {
+        "type": "fullbody-art",
+        "link": "/gallery/pieces/bryce-titan-gem.png",
+        "alt": "Bryce, ♂️ human titan",
+        "title": "Bryce, ♂️ human titan",
+        "subject": "Bryce, ♂️ human titan",
+        "artist": {
+            "link": "https://twitter.com/gemkimart",
+            "name": "Gem",
+        },
+        "date": "2022-04-26",
+        "categories": [
+            {
+                "category": "destiny2",
+                "category-label": "destiny 2",
+            },
+        ],
+    },
 ]
