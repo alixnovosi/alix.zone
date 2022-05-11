@@ -3,11 +3,11 @@
 
 /* TEAM */
     Developer/Owner: alix novosi
-    Contact: dev [at] drew.life
+    Contact: webmaster [at] alix.zone
     From: California, USA
 
 /* SITE */
-    Last update: 2022-02-04
+    Last update: 2022-05-11
     Language: English
     Standards: HTML5, CSS3
     Software: neovim, Pelican, nginx, FreeBSD
