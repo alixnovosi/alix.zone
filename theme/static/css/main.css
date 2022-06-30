@@ -800,13 +800,21 @@ article.lol-2021 .tile {
 .art-tile-category {
   border: 2px solid #000011;
   border-top-right-radius: 10px;
+  display: flex;
   font-size: 19px;
   font-weight: bold;
   grid-column: 2 / span 1;
   grid-row: 1 / span 3;
   line-height: 1.5;
   text-align: center;
+}
+
+.art-tile-category .raw-text {
+  -webkit-transform: rotate(180deg);
+  -webkit-writing-mode: vertical-lr;
+  text-align: center;
   writing-mode: sideways-lr;
+  -moz-transform: rotate(0);
 }
 
 .gallery-section {

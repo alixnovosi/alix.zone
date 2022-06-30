@@ -111,15 +111,21 @@ $art_category_colors: (
 .art-tile-category {
     border: 2px solid $nav_blue_darker;
     border-top-right-radius: 10px;
+    display: flex;
     font-size: 19px;
     font-weight: bold;
     grid-column: 2 / span 1;
     grid-row: 1 / span 3;
     line-height: 1.5;
     text-align: center;
-    writing-mode: sideways-lr;
-    -webkit-transform: rotate(180deg);
-    -webkit-writing-mode: vertical-lr;
+
+    .raw-text {
+        -webkit-transform: rotate(180deg);
+        -webkit-writing-mode: vertical-lr;
+        text-align: center;
+        writing-mode: sideways-lr;
+        -moz-transform: rotate(0);
+    }
 }
 
 .gallery-section {

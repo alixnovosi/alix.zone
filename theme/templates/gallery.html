@@ -41,7 +41,9 @@
           <section class="art-category-box">
            {% for category in item['categories'] %}
             <section class="art-tile-category {{ category['category'] }}">
-             {{ category['category-label'] }}
+             <section class="raw-text">
+              {{ category['category-label'] }}
+             </section>
             </section>
            {% endfor %}
           </section>
