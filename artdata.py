@@ -10,7 +10,7 @@ ART_DATA = [
             "link": "https://alix.zone",
             "name": "Alix Novosi + Python collab",
         },
-        "date": "forget",
+        "date": "2018?",
         "categories": [
             {
                 "category": "demo",
