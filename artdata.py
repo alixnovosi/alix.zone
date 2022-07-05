@@ -240,4 +240,30 @@ ART_DATA = [
             },
         ],
     },
+    {
+        "type": "ref",
+        "link": "/gallery/pieces/Minnie Rose Brooks ref 1.0.png",
+        "alt": "Rivaldi Minnie Rose Brooks ref sheet",
+        "title": "Rivaldi Minnie Rose Brooks ref sheet",
+        "subject": "Minnie Rose Brooks (♀️ awoken  hunter)",
+        "artist": {
+            "link": "https://alix.zone/ocgallery.html",
+            "name": "Alix Novosi",
+        },
+        "date": "2022-07-04",
+        "categories": [
+            {
+                "category": "destiny2",
+                "category-label": "destiny 2",
+            },
+            {
+                "category": "fursona",
+                "category-label": "fursona",
+            },
+            {
+                "category": "mine",
+                "category-label": "mine",
+            },
+        ],
+    },
 ]
