@@ -27,7 +27,7 @@ ART_DATA = [
         "link": "/gallery/pieces/aspeneyes_alix_profile.png",
         "alt": "Aspen Eyes fursona profile",
         "title": "Aspen Eyes fursona profile",
-        "subject": "Alix (fursona)",
+        "subject": "Alix (he/they)",
         "artist": {
             "link": "https://twitter.com/aspen_eyes",
             "name": "Aspen Eyes",
@@ -45,7 +45,7 @@ ART_DATA = [
         "link": "/gallery/pieces/mirtilo_alix_fullbody.png",
         "alt": "Mirtilo fursona fullbody",
         "title": "Mirtilo fursona fullbody",
-        "subject": "Alix (fursona)",
+        "subject": "Alix (he/they)",
         "artist": {
             "link": "https://twitter.com/mirtiloart",
             "name": "Mirtilo",
@@ -63,7 +63,7 @@ ART_DATA = [
         "link": "/gallery/pieces/pitanga_alix_profile.jpg",
         "alt": "Pitanga fursona profile",
         "title": "Pitanga fursona profile",
-        "subject": "Alix (fursona)",
+        "subject": "Alix (he/they)",
         "artist": {
             "link": "https://twitter.com/pitangabag",
             "name": "Pitanga",
@@ -81,7 +81,7 @@ ART_DATA = [
         "link": "/gallery/pieces/nagunkgunk_anita-5_fullbody.png",
         "alt": "Nagunkgunk Anita-5 fullbody",
         "title": "Nagunkgunk Anita-5 fullbody",
-        "subject": "Anita-5 (♀️ exo warlock)",
+        "subject": "Anita-5 (exo warlock) (she/her)",
         "artist": {
             "link": "https://twitter.com/nagunkgunk",
             "name": "Nagunkgunk",
@@ -99,7 +99,7 @@ ART_DATA = [
         "link": "/gallery/pieces/self-made self-ref 1.0 June 2021.png",
         "alt": "Alix Novosi Reference Sheet",
         "title": "Alix Novosi Reference Sheet",
-        "subject": "Alix (fursona)",
+        "subject": "Alix (he/they)",
         "artist": {
             "link": "https://alix.zone/ocgallery.html",
             "name": "Alix Novosi",
@@ -121,7 +121,7 @@ ART_DATA = [
         "link": "/gallery/pieces/rivaldi_minnie_brooks_(hunter)_commission.png",
         "alt": "Rivaldi Minnie Rose Brooks fullbody",
         "title": "Rivaldi Minnie Rose Brooks fullbody",
-        "subject": "Minnie Rose Brooks (♀️ awoken  hunter)",
+        "subject": "Minnie Rose Brooks (awoken hunter) (she/they)",
         "artist": {
             "link": "https://twitter.com/rivaldi22",
             "name": "rivaldi22 (Randy)",
@@ -139,7 +139,7 @@ ART_DATA = [
         "link": "/gallery/pieces/aspen_eyes_halloween_pfp.png",
         "alt": "Aspen Eyes halloween fursona profile",
         "title": "Aspen Eyes halloween fursona profile",
-        "subject": "Alix (fursona)",
+        "subject": "Alix (he/they)",
         "artist": {
             "link": "https://twitter.com/aspen_eyes",
             "name": "Aspen Eyes",
@@ -157,7 +157,7 @@ ART_DATA = [
         "link": "/gallery/pieces/deersona-anita-5-and-sylv_alix-novosi.png",
         "alt": "Anita-5, exo deer (and Sylv)",
         "title": "Anita-5, exo deer (and Sylv)",
-        "subject": "Anita-5 (♀️ exo deerlock)  (and Sylv)",
+        "subject": "Anita-5 (exo deerlock) (she/her) (and Sylv, they/them)",
         "artist": {
             "link": "https://alix.zone/ocgallery.html",
             "name": "Alix Novosi",
@@ -183,7 +183,7 @@ ART_DATA = [
         "link": "/gallery/pieces/girlpillz_anita-5_ref_final.png",
         "alt": "Anita-5, exo deer (and Sylv)",
         "title": "Anita-5, exo deer (and Sylv)",
-        "subject": "Anita-5 (♀️ exo deerlock)  (and Sylv)",
+        "subject": "Anita-5 (exo deerlock) (she/her)  (and Sylv, they/them)",
         "artist": {
             "link": "https://twitter.com/girlpillz",
             "name": "girlpillz",
@@ -205,7 +205,7 @@ ART_DATA = [
         "link": "/gallery/pieces/4.0 Ref Sheet.png",
         "alt": "Alix Novosi ref sheet (4.0 model)",
         "title": "Alix Novosi ref sheet (4.0 model)",
-        "subject": "Alix Novosi",
+        "subject": "Alix Novosi (he/they)",
         "artist": {
             "link": "https://alix.zone/ocgallery.html",
             "name": "Alix Novosi",
@@ -225,9 +225,9 @@ ART_DATA = [
     {
         "type": "ref",
         "link": "/gallery/pieces/bryce-titan-gem.png",
-        "alt": "Bryce, ♂️ human titan",
-        "title": "Bryce, ♂️ human titan",
-        "subject": "Bryce, ♂️ human titan",
+        "alt": "Bryce, human titan",
+        "title": "Bryce, human titan",
+        "subject": "Bryce, human titan (he/him)",
         "artist": {
             "link": "https://twitter.com/gemkimart",
             "name": "Gem",
@@ -245,7 +245,7 @@ ART_DATA = [
         "link": "/gallery/pieces/Minnie Rose Brooks ref 1.0.png",
         "alt": "Rivaldi Minnie Rose Brooks ref sheet",
         "title": "Rivaldi Minnie Rose Brooks ref sheet",
-        "subject": "Minnie Rose Brooks (♀️ awoken  hunter)",
+        "subject": "Minnie Rose Brooks (awoken hunter) (she/they)",
         "artist": {
             "link": "https://alix.zone/ocgallery.html",
             "name": "Alix Novosi",
